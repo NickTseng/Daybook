@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "homepage": "https://github.com/NickTseng/Daybook",
+  "authors": [
+    "nick.tseng <z77819@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "angular-strap": "~2.3.6",
+    "bootstrap-additions": "~0.3.1"
+  }
+}
