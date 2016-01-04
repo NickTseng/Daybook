@@ -1,7 +1,7 @@
 package com.nick
 
-import com.nick.domain.User
-import com.nick.service.UserRepository
+import com.nick.domain.*
+import com.nick.service.*
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.stereotype.Controller;
@@ -16,15 +16,30 @@ import org.springframework.ui.Model
 
 
 @Controller
-class GreetingController {
+class RestController {
 
     @Autowired
     private UserRepository userRepository
+    @Autowired
+    private RecordRepository recordRepository
 
     @RequestMapping("/")
     public @ResponseBody String index() {
         "Greetings from Spring Boot!";
     }
+
+
+    // daily report
+    @RequestMapping("/daily")
+    public @ResponseBody List<User> queryDaily(Model model) {
+        Date startDate = new Date()
+        Date endDate = new Date()
+        startDate.set(hourOfDay: 0, minute: 0, second: 0)
+        endDate.set(hourOfDay: 23, minute: 59, second: 59)
+
+        recordRepository.findByRecordDateBetween(startDate, endDate)
+    }
+
 
     @RequestMapping("/greeting")
     public String greeting(@RequestParam(value="name", required=false, defaultValue="World") String name, Model model) {
@@ -39,4 +54,9 @@ class GreetingController {
         model.addAttribute("name", 'nick');
         userRepository.findAll()
     }
+
+
+
+
+
 }
