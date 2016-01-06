@@ -10,3 +10,4 @@ class DaybookApplication {
 		SpringApplication.run DaybookApplication, args
 	}
 }
+
