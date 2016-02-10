@@ -2,448 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1e8a5c8c-14b3-45d2-b648-a32845537e10" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/service/UserRepository.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/application.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.bowerrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.codeclimate.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/angular-strap.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.compat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.compat.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/angular-strap.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/affix.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/affix.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/alert.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/alert.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/alert.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/alert.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/aside.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/aside.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/aside.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/aside.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/aside.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/button.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/button.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/collapse.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/collapse.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/compiler.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/compiler.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-formatter.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-formatter.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-parser.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/date-parser.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/datepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/datepicker.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/datepicker.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/datepicker.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/debounce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/debounce.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/debounce.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dimensions.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dimensions.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dropdown.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dropdown.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dropdown.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/dropdown.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/modal.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/modal.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/modal.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/modal.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/navbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/navbar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/navbar.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/parse-options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/parse-options.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/parse-options.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/popover.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/popover.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/popover.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/popover.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/raf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/raf.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/raf.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/scrollspy.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/scrollspy.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/select.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/select.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/select.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/select.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tab.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tab.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tab.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tab.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/timepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/timepicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/timepicker.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/timepicker.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/timepicker.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tooltip.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tooltip.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tooltip.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/tooltip.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/typeahead.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/typeahead.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/typeahead.tpl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/dist/modules/typeahead.tpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/ngfactory.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/affix/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/alert/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/alert/alert.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/aside/aside.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/aside/aside.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/button/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/collapse/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/datepicker/datepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/datepicker/datepicker.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/dropdown/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/dropdown/dropdown.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/compiler.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/date-formatter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/date-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/debounce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/parse-options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/helpers/raf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/modal/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/modal/modal.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/module.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/navbar/navbar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/popover/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/popover/popover.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/scrollspy/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/select/select.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/select/select.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/tab/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/tab/tab.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/timepicker/timepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/timepicker/timepicker.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/tooltip/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/tooltip/tooltip.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/typeahead/typeahead.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular-strap/src/typeahead/typeahead.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/angular-csp.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/angular.min.js.gzip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/angular.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/angular/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/bootstrap-additions.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/bootstrap-additions.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/bootstrap-additions.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/alert.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/alert.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/alert.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/aside.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/aside.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/aside.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/callout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/callout.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/callout.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/datepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/datepicker.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/modal.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/modal.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/modal.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/popover.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/popover.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/popover.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/timepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/timepicker.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/timepicker.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/tooltip.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/dist/modules/tooltip.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/gulpfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/ngfactory.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/alert/alert.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/aside/aside.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/bootstrap-additions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/callout/callout.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/datepicker/datepicker.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/modal/modal.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/popover/popover.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/timepicker/timepicker.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap-additions/src/tooltip/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/dist/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/bs-commonjs-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/configBridge.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/grunt/sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/.jscsrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/affix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/alert.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/button.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/modal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/popover.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/tab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/js/transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/.csslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/badges.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/close.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/code.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/media.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/background-variant.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/border-radius.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/center-block.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/clearfix.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/forms.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/gradients.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/grid-framework.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/grid.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/hide-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/image.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/labels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/nav-divider.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/nav-vertical-align.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/opacity.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/progress-bar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/reset-filter.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/reset-text.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/resize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/responsive-visibility.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/size.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/tab-focus.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/table-row.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/text-emphasis.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/text-overflow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/mixins/vendor-prefixes.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/modals.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/navs.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/pager.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/panels.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/print.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/responsive-embed.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/tables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/theme.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/type.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/less/wells.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/nuget/MyGet.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/nuget/bootstrap.less.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/nuget/bootstrap.nuspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/package.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/bootstrap/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/dist/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/dist/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/dist/jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/load.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/script.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/var/nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/var/rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/ajax/xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes/attr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes/classes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes/prop.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/attributes/val.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core/access.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core/init.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core/parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core/ready.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/core/var/rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/swap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/var/cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/var/getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/var/isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/var/rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/css/var/rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/data/Data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/data/accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/data/var/data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/data/var/data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/effects.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/effects/Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/effects/animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/event.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/event/ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/event/alias.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/event/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/exports/amd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/exports/global.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/intro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/manipulation/_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/manipulation/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/offset.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/outro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/queue.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/queue/delay.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/selector.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/traversing/findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/arr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/push.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/slice.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/support.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/var/toString.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/static/bower_components/jquery/src/wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/greeting.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/templates/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/DaybookApplication.class" afterPath="$PROJECT_DIR$/build/classes/main/com/nick/DaybookApplication.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.9/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/RestController.class" afterPath="$PROJECT_DIR$/build/classes/main/com/nick/RestController.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/domain/Record.class" afterPath="$PROJECT_DIR$/build/classes/main/com/nick/domain/Record.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/domain/User.class" afterPath="$PROJECT_DIR$/build/classes/main/com/nick/domain/User.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/main/com/nick/service/RecordRepository.class" afterPath="$PROJECT_DIR$/build/classes/main/com/nick/service/RecordRepository.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Daybook4.iml" afterPath="$PROJECT_DIR$/Daybook4.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/com/nick/DaybookApplication.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/com/nick/DaybookApplication.groovy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/application.properties" afterPath="$PROJECT_DIR$/build/resources/main/application.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/templates/index.html" afterPath="$PROJECT_DIR$/build/resources/main/templates/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/greeting.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy" afterPath="$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy" />
     </list>
     <ignored path="Daybook4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -520,13 +94,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="RestController.groovy" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy">
+      <file leaf-file-name="RecordRepository.groovy" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8185484">
-              <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.71467394">
+              <caret line="30" column="110" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
               <folding>
-                <element signature="e#18#42#0" expanded="true" />
+                <element signature="e#26#55#0" expanded="true" />
+                <marker date="1455085322000" expanded="true" signature="569:731" placeholder="SELECT id, n... records" />
               </folding>
             </state>
           </provider>
@@ -536,69 +111,9 @@
         <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-14.375">
               <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Type.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/domain/Type.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="greeting.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecordRepository.groovy" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <element signature="e#26#55#0" expanded="true" />
+                <marker date="1455083319000" expanded="true" signature="53:103" placeholder="/**...*/" />
               </folding>
             </state>
           </provider>
@@ -608,10 +123,53 @@
         <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+              <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
               <folding>
                 <element signature="e#26#53#0" expanded="true" />
+                <marker date="1455081642000" expanded="true" signature="520:547" placeholder="SELECT * FRO... types" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RestController.groovy" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
+              <folding>
+                <element signature="e#18#42#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gradlew" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gradlew">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -857,7 +415,7 @@
       <map>
         <entry key="$PROJECT_DIR$/../DayBook" value="1451802784000" />
         <entry key="$PROJECT_DIR$/../DayBook2" value="1451806615000" />
-        <entry key="$PROJECT_DIR$" value="1452073182000" />
+        <entry key="$PROJECT_DIR$" value="1454856479000" />
         <entry key="$PROJECT_DIR$/../daybook" value="1451411661000" />
         <entry key="$PROJECT_DIR$/../daybook2" value="1450430886000" />
         <entry key="$PROJECT_DIR$/../nick6" value="1448417354000" />
@@ -883,6 +441,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-devtools/1.3.1.RELEASE/aa620233ef8b7dfabb298add128848c100aef24f/spring-boot-devtools-1.3.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.3.1.RELEASE/c5b0b69fe63cd79c301a9b62ce794746ae45f522/spring-boot-starter-data-jpa-1.3.1.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-data-jpa/1.3.1.RELEASE/2ab6101dff6b2a35dd7ee5ed1b904af96504d3f1/spring-boot-starter-data-jpa-1.3.1.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.3.1.RELEASE/fb9b10d02bd2933b2d2bbe59277d307e1ad55339/spring-boot-starter-jdbc-1.3.1.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.3.1.RELEASE/6fdd3124a3aa9eaa4d4ac0adde03c734676e40bd/spring-boot-starter-jdbc-1.3.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.3.1.RELEASE/bc9b41324a8293b9ab4b7416ee2e91d7ba41adb4/spring-boot-starter-thymeleaf-1.3.1.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-thymeleaf/1.3.1.RELEASE/edba98de86665674951f0845bf9071872dfefab6/spring-boot-starter-thymeleaf-1.3.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.3.1.RELEASE/cb32e012c0c40179a4ba1e74d37321e053da226e/spring-boot-starter-web-1.3.1.RELEASE-sources.jar" />
@@ -897,8 +457,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.3.1.RELEASE/622e02ce77b3bea202b596a6fa0c40525ec81e1c/spring-boot-starter-1.3.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.3.1.RELEASE/508e040328acd4f8ecb790b2655494b02cccc8cb/spring-boot-starter-aop-1.3.1.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-aop/1.3.1.RELEASE/898d3fe97caf7dd88b42357e1643318753b0cf4e/spring-boot-starter-aop-1.3.1.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.3.1.RELEASE/fb9b10d02bd2933b2d2bbe59277d307e1ad55339/spring-boot-starter-jdbc-1.3.1.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-jdbc/1.3.1.RELEASE/6fdd3124a3aa9eaa4d4ac0adde03c734676e40bd/spring-boot-starter-jdbc-1.3.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.11.Final/31091c6eedbbb299aa1c22801404842a7bc28cf5/hibernate-entitymanager-4.3.11.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-entitymanager/4.3.11.Final/27a119fcc2b91c50e5285dd11158fac2c38c9d1b/hibernate-entitymanager-4.3.11.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.transaction/javax.transaction-api/1.2/5d1fb3fe056fe51e6f6ed9b4ef4898a774ed69c0/javax.transaction-api-1.2-sources.jar" />
@@ -907,6 +465,10 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.9.2.RELEASE/6026f5ca41b1c7c368d99cdf5cf9bf8d737ecdb2/spring-data-jpa-1.9.2.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.2.4.RELEASE/43cf5221399584cdf77e6aeb6d73d169a908e4cf/spring-aspects-4.2.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aspects/4.2.4.RELEASE/f8b7fe22a4a1be320c9148499437c6347c1701f1/spring-aspects-4.2.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.30/d13ff9e26b459d841bd876fbf6a74406f9cc44ab/tomcat-jdbc-8.0.30-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.30/44765cbbe3ea864923c16f19e081522f8058a6a5/tomcat-jdbc-8.0.30.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.4.RELEASE/688f6c57b8edfda66b2e463d7e4030adaabc4703/spring-jdbc-4.2.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.4.RELEASE/7aa1c3c817b0a04796e6570a2c07ac23248c1ee0/spring-jdbc-4.2.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.4.RELEASE/69f9fde587c69648bc1c2d59681ab38e77221a64/thymeleaf-spring4-2.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf-spring4/2.1.4.RELEASE/e5677e7daedfd05e001945abf4295305ac23826b/thymeleaf-spring4-2.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/nz.net.ultraq.thymeleaf/thymeleaf-layout-dialect/1.3.1/305accc40df1d83d8e712b7e6a8246b46ca497d5/thymeleaf-layout-dialect-1.3.1-sources.jar" />
@@ -933,10 +495,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/4.2.4.RELEASE/3329cf71b4bc49c9767ca4f0704ed7b773f29fba/spring-aop-4.2.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.7/2c276bb839d67f39766342cf77ea799da72ea323/aspectjweaver-1.8.7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjweaver/1.8.7/f753e78bbe484e58b3b4e5ce3cc1751e50d11f6c/aspectjweaver-1.8.7.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.30/d13ff9e26b459d841bd876fbf6a74406f9cc44ab/tomcat-jdbc-8.0.30-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-jdbc/8.0.30/44765cbbe3ea864923c16f19e081522f8058a6a5/tomcat-jdbc-8.0.30.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.4.RELEASE/688f6c57b8edfda66b2e463d7e4030adaabc4703/spring-jdbc-4.2.4.RELEASE-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/4.2.4.RELEASE/7aa1c3c817b0a04796e6570a2c07ac23248c1ee0/spring-jdbc-4.2.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3625e6818158ddb4754fa2ec51299e5f57e596b4/jboss-logging-3.3.0.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.3.0.Final/3616bb87707910296e2c195dc016287080bba5af/jboss-logging-3.3.0.Final.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging-annotations/1.2.0.Beta1/360b782ab568672ea968726ddf209e753c860e1a/jboss-logging-annotations-1.2.0.Beta1-sources.jar" />
@@ -963,6 +521,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.13/7fcf30c25b8f4a9379b9dad0d3f487b25272c026/slf4j-api-1.7.13.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.13/988decf2bd4133c233f1e63f0da7368ee78c6405/jcl-over-slf4j-1.7.13-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.13/d78d2242e14e4182625152d225f76ae52b43491d/jcl-over-slf4j-1.7.13.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.30/fb38fdaf9525ba2a675bc8c962032e2058da3e94/tomcat-juli-8.0.30-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.30/48258c438c681d1322ccb15f01d58238d14c1274/tomcat-juli-8.0.30.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.4.RELEASE/4aa7049660b4d1a6a34348c1fdd91cd5d8eee1cb/thymeleaf-2.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.thymeleaf/thymeleaf/2.1.4.RELEASE/a730d892f3c57ba3d24af2ca657b42d81398a85a/thymeleaf-2.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.codehaus.groovy/groovy/2.4.4/6f1b1572c61cae5a00287b731ad9ba5c6c904471/groovy-2.4.4-sources.jar" />
@@ -991,8 +551,6 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/log4j-over-slf4j/1.7.13/b5f4685073a6ffba6bf7e1d51e2b5fb83bdfa953/log4j-over-slf4j-1.7.13.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/4a4b6d692e17846a9f3da036438a7ac491d3c814/aopalliance-1.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.30/fb38fdaf9525ba2a675bc8c962032e2058da3e94/tomcat-juli-8.0.30-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-juli/8.0.30/48258c438c681d1322ccb15f01d58238d14c1274/tomcat-juli-8.0.30.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/antlr/antlr/2.7.7/83cd2cd674a217ade95a4bb83a8a14f351f48bd0/antlr-2.7.7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/cd042b769b296fd1bc20ca5120824caa42b6c9ed/jandex-1.1.0.Final-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss/jandex/1.1.0.Final/e84a2122e76f0b6503be78094ddf2108057ac15f/jandex-1.1.0.Final.jar" />
@@ -1108,14 +666,14 @@
         <option value="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Records.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/greeting.html" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/nick/DaybookApplication.groovy" />
-        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy" />
-        <option value="$PROJECT_DIR$/build.gradle" />
-        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Type.groovy" />
         <option value="$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy" />
+        <option value="$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy" />
       </list>
     </option>
   </component>
@@ -1132,10 +690,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-322" />
-    <option name="y" value="-1057" />
-    <option name="width" value="1270" />
-    <option name="height" value="1057" />
+    <option name="y" value="23" />
+    <option name="width" value="1229" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -1163,7 +720,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1223,6 +779,36 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daybook4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daybook4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1355,6 +941,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1363,14 +950,15 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v5.3.0/bin/node" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Groovy" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -1781,12 +1369,15 @@
       <workItem from="1451910514729" duration="722000" />
       <workItem from="1451911244651" duration="118000" />
       <workItem from="1451911505181" duration="28991000" />
-      <workItem from="1452087480257" duration="2074000" />
+      <workItem from="1452087480257" duration="5553000" />
+      <workItem from="1452161126412" duration="6515000" />
+      <workItem from="1454833387633" duration="3048000" />
+      <workItem from="1454856907149" duration="6662000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47059000" />
+    <option name="totallyTimeSpent" value="66763000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1798,25 +1389,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-322" y="-1057" width="1270" height="1057" extended-state="0" />
+    <frame x="0" y="23" width="1229" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3284974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5043573" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2880829" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45699483" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4218978" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26637554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3004886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24936816" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35822147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5272331" sideWeight="0.490099" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -1839,20 +1430,20 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35822147" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29015544" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885212" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2880829" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28759125" sideWeight="0.4956427" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940185" sideWeight="0.509901" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953367" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45699483" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3004886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26637554" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2881213" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5272331" sideWeight="0.490099" order="9" side_tool="false" content_ui="tabs" />
@@ -1881,56 +1472,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="40" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#26#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Daybook4.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1945,7 +1486,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1455083319000" expanded="true" signature="53:103" placeholder="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1955,6 +1498,7 @@
           <caret line="15" column="40" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="40" />
           <folding>
             <element signature="e#26#55#0" expanded="true" />
+            <marker date="1455085322000" expanded="true" signature="569:731" placeholder="SELECT id, n... records" />
           </folding>
         </state>
       </provider>
@@ -1971,7 +1515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1979,7 +1522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1995,7 +1537,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2013,7 +1554,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding />
+          <folding>
+            <marker date="1455083319000" expanded="true" signature="53:103" placeholder="/**...*/" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2023,6 +1566,7 @@
           <caret line="15" column="40" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="40" />
           <folding>
             <element signature="e#26#55#0" expanded="true" />
+            <marker date="1455085322000" expanded="true" signature="569:731" placeholder="SELECT id, n... records" />
           </folding>
         </state>
       </provider>
@@ -2039,7 +1583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2047,7 +1590,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="78" selection-start-line="14" selection-start-column="78" selection-end-line="14" selection-end-column="78" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2063,7 +1605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="25" column="70" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2079,7 +1620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2087,7 +1627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2103,7 +1642,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2111,7 +1649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2119,7 +1656,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="55" selection-start-line="3" selection-start-column="55" selection-end-line="3" selection-end-column="55" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2135,7 +1671,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2143,7 +1678,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2161,7 +1695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2193,7 +1726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7788698">
           <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2211,15 +1743,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="46" column="88" selection-start-line="46" selection-start-column="88" selection-end-line="46" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2227,58 +1750,83 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30150753">
           <caret line="8" column="10" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/greeting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="34" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.2.RELEASE/33efeac9732261efa4c7eacb3d7db4d6674936ac/spring-data-commons-1.11.2.RELEASE-sources.jar!/org/springframework/data/repository/Repository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43378997">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.2.RELEASE/33efeac9732261efa4c7eacb3d7db4d6674936ac/spring-data-commons-1.11.2.RELEASE-sources.jar!/org/springframework/data/repository/CrudRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/1.11.2.RELEASE/33efeac9732261efa4c7eacb3d7db4d6674936ac/spring-data-commons-1.11.2.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="94" selection-start-line="33" selection-start-column="80" selection-end-line="33" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.9.2.RELEASE/198f5c86facc37cefc44247d6f0f7a67207edd20/spring-data-jpa-1.9.2.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="112" selection-start-line="42" selection-start-column="112" selection-end-line="42" selection-end-column="112" />
           <folding>
-            <element signature="e#26#53#0" expanded="true" />
+            <element signature="e#0#2625#0" expanded="false" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/1.9.2.RELEASE/198f5c86facc37cefc44247d6f0f7a67207edd20/spring-data-jpa-1.9.2.RELEASE-sources.jar!/org/springframework/data/jpa/repository/Query.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#26#55#0" expanded="true" />
-          </folding>
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/domain/Type.groovy">
+    <entry file="file://$PROJECT_DIR$/src/test/groovy/com/nick/DaybookApplicationTests.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.375">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -2286,17 +1834,57 @@
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/domain/Record.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1455083319000" expanded="true" signature="53:103" placeholder="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/domain/Type.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/RestController.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8185484">
-          <caret line="99" column="0" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="41" column="30" selection-start-line="41" selection-start-column="30" selection-end-line="41" selection-end-column="30" />
           <folding>
             <element signature="e#18#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/TypeRepository.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="47" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding>
+            <element signature="e#26#53#0" expanded="true" />
+            <marker date="1455081642000" expanded="true" signature="520:547" placeholder="SELECT * FRO... types" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/groovy/com/nick/service/RecordRepository.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.71467394">
+          <caret line="30" column="110" selection-start-line="30" selection-start-column="110" selection-end-line="30" selection-end-column="110" />
+          <folding>
+            <element signature="e#26#55#0" expanded="true" />
+            <marker date="1455085322000" expanded="true" signature="569:731" placeholder="SELECT id, n... records" />
           </folding>
         </state>
       </provider>
@@ -2367,7 +1955,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Daybook4</last-edited>
+          <last-edited>Spring|Daybook4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

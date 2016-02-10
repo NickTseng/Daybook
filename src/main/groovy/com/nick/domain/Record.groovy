@@ -6,11 +6,11 @@ import javax.persistence.*
  * 記帳資料
  *
  * @author Nick Tseng
- * @since 1.0
+ * @since 1.0 
  */
 @Entity
 @Table(name = "records")
-class Record implements Serializable {
+class Record {
     /** Id. */
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
@@ -26,20 +26,12 @@ class Record implements Serializable {
     Integer amount
 
     /** 分類. */
-    @OneToOne
-    @JoinColumn(name = "type_id", referencedColumnName = "id")
-    Type type
-
-    /** 分類 ID.*/
-    public Integer getTypeId() {
-      return this.type.id
-    }
+    Long typeId
 
     /** 新增時間. */
     Date createdAt
 
     /** 更新時間. */
     Date updatedAt
-
 
 }

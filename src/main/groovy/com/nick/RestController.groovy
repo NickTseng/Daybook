@@ -7,6 +7,7 @@ import org.springframework.beans.factory.annotation.*
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.*
 import org.springframework.format.annotation.*
+import org.springframework.jdbc.core.JdbcTemplate
 /**
  * Restful API
  *
@@ -33,15 +34,15 @@ class RestController {
      * GET /create
      * 新增記帳資料.
      */
-    @RequestMapping("/create")
-    public boolean create(@RequestBody Record item) {
+    @RequestMapping(value = "/create", method = RequestMethod.POST)
+    public @ResponseBody boolean create(@RequestBody Record item) {
         try {
-            recordRepository.save(item)
+            recordRepository.saveAndFlush(item)
         }
         catch (Exception ex) {
-            return false
+            return ex
         }
-        true
+        return true
     }
 
     /**
@@ -50,17 +51,29 @@ class RestController {
      */
     @RequestMapping("/daily")
     public @ResponseBody Object queryDaily() {
+
         Date startDate = new Date()
         Date endDate = new Date()
         startDate.set(hourOfDay: 0, minute: 0, second: 0)
         endDate.set(hourOfDay: 23, minute: 59, second: 59)
 
         def dailyList = recordRepository.findByRecordDateBetween(startDate, endDate)
-        def typeList = typeRepository.findAll()
+        def typeList = typeRepository.getTypes()
 
         def result = [daily: dailyList, types: typeList]
         return result
     }
+
+    /**
+     * GET /search
+     * 查詢資料.
+     */
+    @RequestMapping("/search")
+    public @ResponseBody List<Record> search(@DateTimeFormat(pattern="yyyy-MM-dd") Date startDate,
+                                             @DateTimeFormat(pattern="yyyy-MM-dd") Date endDate) {
+        recordRepository.findByRecordDateBetween(startDate, endDate)
+    }
+
 
     /**
      * PUT /update
@@ -85,15 +98,4 @@ class RestController {
         }
         return true
     }
-
-    /**
-     * GET /search
-     * 查詢資料.
-     */
-    @RequestMapping("/search")
-    public @ResponseBody List<Record> search(@DateTimeFormat(pattern="yyyy-MM-dd") Date startDate,
-                                             @DateTimeFormat(pattern="yyyy-MM-dd") Date endDate) {
-        recordRepository.findByRecordDateBetween(startDate, endDate)
-    }
-
 }
