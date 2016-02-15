@@ -37,7 +37,7 @@ class RestController {
     @RequestMapping(value = "/create", method = RequestMethod.POST)
     public @ResponseBody boolean create(@RequestBody Record item) {
         try {
-            recordRepository.saveAndFlush(item)
+            recordRepository.insert(item)
         }
         catch (Exception ex) {
             return ex

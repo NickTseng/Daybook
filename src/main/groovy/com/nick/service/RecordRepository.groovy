@@ -20,16 +20,28 @@ public class RecordRepository {
     protected JdbcTemplate jdbc;
 
     public List<Record> findByRecordDateBetween(Date startDate, Date endDate) {
-        return jdbc.query("SELECT id,  amount,  created_at," +
-                        "  description, record_date, updated_at, type_id           " +
-                        "  FROM records", recordMapper)
+        def sqlStartDate = new java.sql.Date(startDate.getTime())
+        def sqlEndDate = new java.sql.Date(endDate.getTime())
+        return jdbc.query("""SELECT id,  amount,  created_at,
+                                    description, record_date, updated_at, type_id
+                             FROM records
+                             WHERE record_date BETWEEN '${sqlStartDate}' and '${sqlEndDate}'
+                             """, recordMapper)
     }
 
     public boolean insert(Record record){
-        String sqlInsert = "INSERT INTO records (amount, description, record_date, type_id)"
-        + " VALUES (?, ?, ?, ?)";
-        JdbcTemplate.update(sqlInsert, { record.amount, record.description, record.recordDate, record.typeId})
+        def sqlInsert = """INSERT INTO records (amount, description, record_date, type_id)
+                           VALUES ( ?, ?, ?, ?)"""
+        def key = jdbc.update(sqlInsert, record.amount, record.description.toString(),
+                                         new java.sql.Date(record.recordDate.getTime()), 1)
+        return true
 
+    }
+
+    public boolean delete(long id){
+        def sqlDelete = """DELETE FROM records
+                           WHERE id = ${id} """
+        def key = jdbc.update(sqlDelete)
     }
 
 
