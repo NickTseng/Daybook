@@ -50,6 +50,7 @@ public class RecordRepository {
             Record record = new Record()
             record.id = rs.getLong("id")
             record.amount =  rs.getInt("amount")
+            record.description = rs.getString("description")
             record.createdAt =  rs.getDate("created_at")
             record.typeId =  rs.getLong("type_id")
             record.recordDate =  rs.getDate("record_date")
